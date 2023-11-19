@@ -89,6 +89,10 @@ body {
   margin-right: 76px;
 }
 
+.logo {
+  margin-right: 76px
+}
+
 .menu-link {
   display: block;
   color: #2E2F42;
@@ -188,7 +192,7 @@ body {
 
 .benefits-menu {
   display: flex;
-  column-gap: 24px;
+  gap: 24px;
   justify-content: center;
 }
 
@@ -203,6 +207,7 @@ body {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 .benefits-text {
